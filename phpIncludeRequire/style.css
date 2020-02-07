@@ -1,0 +1,15 @@
+* {
+  margin: 0; padding: 0;
+}
+header {
+  height: 10vh;
+  background-color: cadetblue;
+}
+main {
+  height: 85vh;
+  background-color: tomato;
+}
+footer {
+height: 5vh;
+background-color: black;
+}
